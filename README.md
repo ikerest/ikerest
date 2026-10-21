@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Iker%20Estebaranz%20(ikerest)&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=2%C2%BA%20ASIR%20%E2%80%A2%20Sistemas%20%E2%80%A2%20Redes%20%E2%80%A2%20Aplicaciones%20Web&descAlignY=60&descSize=16" alt="Banner ikerest" />
 </p>
 
-<h1 align="center">¡Hola! Soy Iker 👋</h1>
-<p align="center">Estudiante de 2º ASIR | Administración de Sistemas • Redes • Implantación Web (IAW)</p>
+<h1 align="center">¡Hola! Soy Iker </h1>
+<p align="center">Estudiante y entusiasta sobre sistemas | Administración de Sistemas, Redes, Implantación Web (IAW)</p>
 
 <p align="center">
   <a href="https://github.com/ikerest">
@@ -16,13 +16,13 @@
 
 ---
 
-## 🚀 Sobre mí
+## Acerca de mí
 
-- 💻 Estudiante de **2º de ASIR** (Administración de Sistemas Informáticos en Red).
-- 🌱 Interesado en **Linux**, **servicios de red (SRI)**, **despliegue web (IAW)** y **automatización**.
-- 🛠️ Aplicando la filosofía **FLOSS** (Software Libre) y el principio **KISS** (*Keep It Simple, Stupid*).
+- Estudiante de Administración de Sistemas.
+- Interesado en **Kali Linux**, **Servicios de red**, **Despliegue Web**.
+- Aplicando Open Source.
 
-## 🧰 Tecnologías y Stack
+## Tecnologías 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
@@ -40,16 +40,16 @@
 | **Web y Datos** | HTML5, Markdown, Bases de Datos SQL, Servidores Web |
 | **Herramientas** | Git, GitHub, Docker, VirtualBox |
 
-## 📊 Estadísticas
+## Estadísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ikerest&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A" alt="GitHub stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikerest&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A" alt="Top Langs" height="150" />
 </p>
 
-## 📌 Proyectos destacados
+##  Proyectos destacados
 
-- [**2asir2627afh**](https://github.com/ikerest/2asir2627afh) — Repositorio de prácticas para el módulo de Ampliación de Hardware e IAs (2º ASIR).
+- [**2asir2627afh**](https://github.com/ikerest/2asir2627afh) — Repositorio de prácticas para el módulo de Ampliación de Hardware e IAs .
 - [**ikerest**](https://github.com/ikerest/ikerest) — Mi repositorio especial de presentación en GitHub (Práctica P1.1 de IAW).
 
 <details>
@@ -65,5 +65,6 @@
 
 ## 📫 Contacto
 
+- **Gmail:** ikerestebaranz@gmail.com
 - **GitHub:** [github.com/ikerest](https://github.com/ikerest)
 - **Proyectos:** [Mis repositorios públicos](https://github.com/ikerest?tab=repositories)
