@@ -41,12 +41,6 @@
 | **Web y Datos** | HTML5, Markdown, Bases de Datos SQL, Servidores Web |
 | **Herramientas** | Git, GitHub, Docker, VirtualBox |
 
-## Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikerest&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikerest&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A" alt="Top Langs" height="150" />
-</p>
 
 ## Proyectos destacados
 
