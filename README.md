@@ -58,7 +58,7 @@
   </ul>
 </details>
 
-## 📫 Contacto
+## Soportes de Contacto
 
 - **Gmail:** [ikerestebaranz@gmail.com](mailto:ikerestebaranz@gmail.com)
 - **GitHub:** [github.com/ikerest](https://github.com/ikerest)
