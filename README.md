@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">¡Hola! Soy Iker</h1>
-<p align="center">Estudiante y entusiasta sobre sistemas | Administración de Sistemas, Redes, Implantación Web (IAW)</p>
+<p align="center">Estudiante y entusiasta sobre Administración de Sistemas, Redes e Implantación Web </p>
 
 <p align="center">
   <a href="https://github.com/ikerest">
