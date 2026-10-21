@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Iker%20Estebaranz%20(ikerest)&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=2%C2%BA%20ASIR%20%E2%80%A2%20Sistemas%20%E2%80%A2%20Redes%20%E2%80%A2%20Aplicaciones%20Web&descAlignY=60&descSize=16" alt="Banner ikerest" />
 </p>
 
-<h1 align="center">¡Hola! Soy Iker </h1>
+<h1 align="center">¡Hola! Soy Iker</h1>
 <p align="center">Estudiante y entusiasta sobre sistemas | Administración de Sistemas, Redes, Implantación Web (IAW)</p>
 
 <p align="center">
@@ -22,10 +22,11 @@
 - Interesado en **Kali Linux**, **Servicios de red**, **Despliegue Web**.
 - Aplicando Open Source.
 
-## Tecnologías 
+## Tecnologías
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Kali_Linux-0F172A?style=for-the-badge&logo=kalilinux&logoColor=367BF0" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Bash-0F172A?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
   <img src="https://img.shields.io/badge/SSH-0F172A?style=for-the-badge&logo=openssh&logoColor=38BDF8" alt="SSH" />
   <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
@@ -36,7 +37,7 @@
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Sistemas y Redes** | GNU/Linux (Debian/Ubuntu), Bash, OpenSSH, SFTP |
+| **Sistemas y Redes** | GNU/Linux (Debian, Ubuntu, Kali Linux), Bash, OpenSSH, SFTP |
 | **Web y Datos** | HTML5, Markdown, Bases de Datos SQL, Servidores Web |
 | **Herramientas** | Git, GitHub, Docker, VirtualBox |
 
@@ -47,9 +48,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikerest&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A" alt="Top Langs" height="150" />
 </p>
 
-##  Proyectos destacados
+## Proyectos destacados
 
-- [**2asir2627afh**](https://github.com/ikerest/2asir2627afh) — Repositorio de prácticas para el módulo de Ampliación de Hardware e IAs .
+- [**2asir2627afh**](https://github.com/ikerest/2asir2627afh) — Repositorio de prácticas para el módulo de Ampliación de Hardware e IAs.
 - [**ikerest**](https://github.com/ikerest/ikerest) — Mi repositorio especial de presentación en GitHub (Práctica P1.1 de IAW).
 
 <details>
@@ -65,6 +66,6 @@
 
 ## 📫 Contacto
 
-- **Gmail:** ikerestebaranz@gmail.com
+- **Gmail:** [ikerestebaranz@gmail.com](mailto:ikerestebaranz@gmail.com)
 - **GitHub:** [github.com/ikerest](https://github.com/ikerest)
 - **Proyectos:** [Mis repositorios públicos](https://github.com/ikerest?tab=repositories)
