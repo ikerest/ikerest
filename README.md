@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Iker%20Estebaranz%20(ikerest)&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=2%C2%BA%20ASIR%20%E2%80%A2%20Sistemas%20%E2%80%A2%20Redes%20%E2%80%A2%20Aplicaciones%20Web&descAlignY=60&descSize=16" alt="Banner ikerest" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060913,35:0f172a,70:1d4ed8,100:38bdf8&height=220&section=header&text=Iker%20Estebaranz%20(ikerest)&fontSize=40&fontColor=ffffff&stroke=38bdf8&strokeWidth=1&animation=fadeIn&fontAlignY=35&desc=2%C2%BA%20ASIR%20%E2%80%A2%20Sistemas%20%E2%80%A2%20Redes%20%E2%80%A2%20Aplicaciones%20Web&descAlignY=56&descSize=17" width="100%" alt="Banner ikerest" />
 </p>
 
 <h1 align="center">¡Hola! Soy Iker</h1>
@@ -63,3 +63,7 @@
 - **Gmail:** [ikerestebaranz@gmail.com](mailto:ikerestebaranz@gmail.com)
 - **GitHub:** [github.com/ikerest](https://github.com/ikerest)
 - **Proyectos:** [Mis repositorios públicos](https://github.com/ikerest?tab=repositories)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060913,35:0f172a,70:1d4ed8,100:38bdf8&height=110&section=footer" width="100%" alt="Ola inferior" />
+</p>
